@@ -1,0 +1,45 @@
+.font{
+	font-style: italic;
+	text-align: center;
+}
+.para
+{
+	font-size: 20px;
+    text-align: center;
+	line-height: 1.5;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.calendar {
+	
+        font-family: 'Font Name';
+        src: url('your-font-url.ttf') format('truetype');
+      
+      
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 50px;
+	
+
+}
+.all
+{
+	background: linear-gradient(to bottom right, #17a3b89e, #ff5e6179);
+}
+.month 
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+	font-size: 30px;
+	
+}
+.russian
+{
+	font-size: 25px;
+}
